@@ -1,5 +1,6 @@
-# Royal Blue Hat
 
-Get your ass off.
+# Royal Blue Hat
 
-Thanks
+`Get your ass off.`
+
+_Thanks_
